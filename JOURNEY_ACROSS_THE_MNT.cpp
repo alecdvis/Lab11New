@@ -7,7 +7,7 @@
 #include "Major.h"
 #include "combatEncounter.h"
 
-static std::vector<std::string> usedNames; //used for preventing repeated names
+static std::vector<std::string> usedNames; //used for preventing repeated names UPDATE UPDATE UPDATE UPDATE
 
 CharacterFactory::enumOfMajorType chooseMajor() { //TODO: FIX ISSUE WHERE INPUT IS NOT RECOGNIZED. MIGHT BE SOMETHING TO DO WITH CIN BUFFER
     
